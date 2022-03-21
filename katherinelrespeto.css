@@ -1,0 +1,19 @@
+body {
+order:8px solid;
+margin:-top:15px;
+margin:-left:15px;
+margin:-right:15px;
+border-color:#46ff15;
+background:#FFE4E1;
+color:#0096ff;}
+			
+p{margin-left:40px;
+margin-right:40px;
+text-align:justify;
+font-size:25px;
+		}
+img{border-style:dashed;
+border-width:15px;
+border-color:#EE82EE #40E0B0 #FFA07A #ADFFFF;
+border-radius:80px;
+		}
